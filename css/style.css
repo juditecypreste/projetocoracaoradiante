@@ -1,0 +1,25 @@
+body {
+  padding-top: auto;
+  img-align: center;
+  text-align: center;
+  font-family: lucida console, monospace;
+  list-style-type: none;
+  display: inline-block;
+  background-color: white;
+  background-size: cover;
+}
+
+h1 {
+  color: black;
+  font-size: 25px
+}
+
+h2 {
+  color: rebeccapurple;
+  font-size: 10px;
+}
+
+img{
+	max-width:100%;
+	height:auto;
+}
